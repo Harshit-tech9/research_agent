@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+memory_store/
+episodic_memory.db
+*.db
+.chromadb/
