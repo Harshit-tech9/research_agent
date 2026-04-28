@@ -1,2 +1,2 @@
-groq_api_key ="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" 
-tavily_api_key="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"
+groq_api_key ="" 
+tavily_api_key=""
